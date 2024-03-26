@@ -1,3 +1,9 @@
+<!--
+ * @Author: Wylde
+ * @Date: 2024-03-26 22:12:20
+ * @LastEditTime: 2024-03-26 22:15:20
+ * @Description:  
+-->
 # mymall
 
 ## Project setup
@@ -17,3 +23,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+修改一下
